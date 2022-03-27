@@ -12,7 +12,7 @@ let reviews = [
         name: 'Brad Web',
         job: 'UX/UI Designer',
         img: 'https://cdn.pixabay.com/photo/2018/04/27/03/50/portrait-3353699_960_720.jpg',
-        text: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni alias voluptate repellendus animi sequi deserunt corrupti autem ipsum quae placeat. Lorem ipsum dolor, sit amet.' 
+        text: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni alias voluptate repellendus animi sequi deserunt corrupti autem ipsum quae placeat. Lorem ipsum dolor, sit amet. Repellendus animi.' 
     },
     {
         id: 3,
